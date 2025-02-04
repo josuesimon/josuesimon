@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Josué Simón García!
 
-<!--
-**josuesimon/josuesimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🎓 Graduated from Brandeis University (2021), where I completed several computer science courses.
+📊 Currently a Data Science Fellow at The Knowledge House, sharpening my analytical skills and deepening my expertise in Python and data modeling.
+🔍 Passionate about data-driven decision-making, storytelling through data, and making complex insights accessible.
+🛠️ What I'm Working On:
+📈 Affordable Housing Production Analysis – Using NYC Open Data to perform exploratory data analysis (EDA) and uncover trends in housing development.
+🐍 Improving my Python skills with Pandas, JSON, and other data techniques.
+🤝 Let's Collaborate!
+I'm always looking to collaborate on projects that will enhance my data analysis and modeling skills. If you're working on something exciting, let's connect!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Looking For...
+Opportunities to break into Data Science as a Data Analyst.
+Guidance and mentorship to refine my skills and navigate the industry.
+🎬 Fun Facts
+💬 Always watching something new—ask me about my latest favorite show!
+📷 Passionate about photography, food adventures, and movies.
+📫 Get in Touch
+📧 Email: jesg128@gmail.com
+😄 Pronouns: he/him/his
